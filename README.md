@@ -34,3 +34,6 @@ This project is a database system designed to manage alumni information and main
 ## Author
 Argho Dey  
 AIUB – American International University Bangladesh
+
+
+This was a group project for the AIUB Introduction to Database course.
